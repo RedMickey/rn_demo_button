@@ -8,7 +8,7 @@ export default class AppTestButton extends Component {
     }
     handleClick() {
       let testBooleanValue = true;
-      console.log('Test output from debuggee2');
+      console.log('Test output from debuggee3');
     }
     render() {
       return (
